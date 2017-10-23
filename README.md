@@ -31,3 +31,6 @@ To communicate with an iOS device, a BLE device is needed. We use HM-10 devices 
 
 If you would like to participate in beta testing, [let me know](mailto:mstramski@gmail.com) :)
 
+## The Box
+
+If you want to have your Chorus Lap Timer Box printed here is an [idea](https://www.thingiverse.com/thing:2602531)
