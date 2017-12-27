@@ -12,7 +12,7 @@ And the iOS app has more functionalities, which were tested in the field.
 
 This hex file can be used to alter the [Chorus Lap Timer project](https://github.com/voroshkov/Chorus-RF-Laptimer).
 
-Just [upload](https://github.com/euphy/polargraph/wiki/Uploading-precompiled-binary-hex-files) this [hex file](CloseProximity.ino.eightanaloginputs.hex) into your assembled lap timer.
+Just [upload](https://github.com/euphy/polargraph/wiki/Uploading-precompiled-binary-hex-files) this [hex file](CloseProximity.ino.hex) into your assembled lap timer.
 
 ## Mobile App
 
